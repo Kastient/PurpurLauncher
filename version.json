@@ -1,5 +1,5 @@
 {
   "version": "1.0.2",
   "download_url": "https://github.com/Kastient/PurpurLauncher/releases/download/v1.0.2/Purpur.Launcher.Installer.1.0.2.exe",
-  "notes": "Обновление 1.0.2: 3D модель и кастомизация скинов с анимациями (осмотр руки, скрещенные руки), поддержка официальных плащей Microsoft, запрет редактирования ника для профилей Microsoft."
+  "notes": "Добавлен редактор скинов."
 }
