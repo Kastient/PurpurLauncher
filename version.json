@@ -1,5 +1,5 @@
-﻿{
-  "version": "1.0.0",
-  "download_url": "https://github.com/Kastient/PurpurLauncher/releases/download/v1.0.0/Purpur.Launcher.Installer.1.0.0.exe",
-  "notes": "Официальный релиз Purpur Launcher 1.0.0"
+{
+  "version": "1.0.1",
+  "download_url": "https://github.com/Kastient/PurpurLauncher/releases/download/v1.0.1/Purpur.Launcher.Installer.1.0.1.exe",
+  "notes": "Доступно обновление 1.0.1: вход через Microsoft, исправление описаний модов и цитат, улучшение интерфейса."
 }
