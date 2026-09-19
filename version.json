@@ -1,5 +1,5 @@
 {
   "version": "1.0.4",
   "download_url": "https://github.com/Kastient/PurpurLauncher/releases/download/v1.0.4/Purpur.Launcher.Installer.1.0.4.exe",
-  "notes": "Исправлена система скинов и плащей: Microsoft-аккаунты используют официальные Minecraft Services, offline-аккаунты — защищённую библиотеку Purpur. Удалён старый локальный агент авторизации."
+  "notes": "Исправлены баги редактора скинов и плащей, включая краш duplicate ASM classes на разных версиях Fabric."
 }
