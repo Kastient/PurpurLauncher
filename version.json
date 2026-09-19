@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
-  "download_url": "https://github.com/Kastient/PurpurLauncher/releases/download/v1.0.2/Purpur.Launcher.Installer.1.0.2.exe",
-  "notes": "Редактор и библиотека сохранённых скинов, синхронизация с Mojang для Microsoft и поддержка скинов и плащей для офлайн-режима."
+  "version": "1.0.3",
+  "download_url": "https://github.com/Kastient/PurpurLauncher/releases/download/v1.0.3/Purpur.Launcher.Installer.1.0.3.exe",
+  "notes": "Исправлено отображение плащей, подключена общая библиотека скинов Purpur, обновлён экран скинов и улучшено автоматическое исправление ошибок модов."
 }
