@@ -11,6 +11,6 @@
 ---
 
 ### Скачать лаунчер:
-👉 [**Скачать установщик для Windows (.exe)**](https://github.com/Kastient/PurpurLauncher/releases/download/v1.0.3/Purpur.Launcher.Installer.1.0.3.exe)
+👉 [**Скачать установщик для Windows (.exe)**](https://github.com/Kastient/PurpurLauncher/releases/download/v1.0.4/Purpur.Launcher.Installer.1.0.4.exe)
 
 📢 Наш Telegram: [t.me/purpur_launcher](https://t.me/purpur_launcher)
